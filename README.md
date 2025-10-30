@@ -47,25 +47,6 @@ npm start
 
 The app will open automatically in your browser at [http://localhost:3000](http://localhost:3000)
 
-## 📜 Available Scripts
-
-### `npm start` or `npm run dev`
-
-Runs the app in development mode with hot module replacement.  
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.  
-Optimizes the build for the best performance with minification and hashing.
-
-### `npm run preview`
-
-Preview the production build locally before deploying.
-
-### `npm test`
-
-Launches the test runner (Vitest) in interactive watch mode.
 
 ## 🛠️ Built With
 
